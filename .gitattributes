@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.pbix filter=lfs diff=lfs merge=lfs -text
+HW2/citywidesalary.pbix filter=lfs diff=lfs merge=lfs -text
+HW1/Citywide_Payroll_Data__Fiscal_Year__20240318.csv filter=lfs diff=lfs merge=lfs -text
